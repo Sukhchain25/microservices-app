@@ -1,0 +1,19 @@
+# Node modules for all services
+**/node_modules/
+
+# Env files (security best practice)
+**/.env
+
+# Logs
+**/logs
+*.log
+
+# OS generated files
+.DS_Store
+
+# Dependency lock files (optional)
+**/package-lock.json
+
+# Build and coverage
+**/dist
+**/coverage
